@@ -1,0 +1,1 @@
+ru bash -c 'inotifywait -m --exclude "[^r][^s]$" src -e create -e moved_to -e close_write | while read path action file; do cargo check; done'
