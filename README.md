@@ -16,3 +16,6 @@ ru cargo build
 ru cargo build --release
 ```
 Various builds and releases. Each project will have its own cache for the build/libraries.
+
+## How do I exit the container?
+Because the containers run in interactive mode, you'll have to do Control-P Control-Q to detach
