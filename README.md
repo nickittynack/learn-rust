@@ -1,6 +1,6 @@
 # Learning Rust
 
-Following the [2018 Book](https://doc.rust-lang.org/book/2018-edition/index.html)
+Following the [Book](https://doc.rust-lang.org/book/index.html)
 
 # Helpful Commands
 
